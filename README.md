@@ -20,5 +20,6 @@ What You'll Find in This Repository
 
 The repository is organized by categories such as sorting algorithms, data structures, dynamic programming, etc. Here's what each directory typically includes:
 
+-   Folder: the algorithmic problem´s name 
 -   Code: A Python script implementing the algorithm.
 -   README: An explanation of the algorithm and its runtime and space complexities.
