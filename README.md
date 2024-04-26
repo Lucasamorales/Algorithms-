@@ -1,7 +1,7 @@
-
-
-Python Algorithms for Practice and Interview Preparation
-========================================================
+Algorithmic Library
+===================
+<img src ="https://github.com/Lucasamorales/Algorithms-/assets/84252450/7bb84658-57aa-448f-a93b-e28c8acff87f" 
+        height= "470px">
 
 Welcome to my collection of algorithmic challenges and solutions in Python! This repository is a personal project aimed at brushing up on fundamental programming concepts and preparing for technical interviews.
 
